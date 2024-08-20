@@ -32,7 +32,7 @@ In this file I have completed the programming assignment and made several improv
  4. Code Organization:
    - Implemented interfaces to improve code structure and maintainability.
    - Ensured the code is clean and well-organized for easier debugging and future modifications.
-   - 
+    
 These improvements will help in quickly identifying and resolving issues in a production environment, make the code more robust, and facilitate easier maintenance and updates in the future.
 
 I look forward to discussing these changes and any other aspects of the assignment with you.
