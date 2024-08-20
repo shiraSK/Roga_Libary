@@ -30,8 +30,8 @@ In this file I have completed the programming assignment and made several improv
    - (Because right now it's a small project, so it doesn't matter that much, but if I had a big project with lots of data like this, it's the best way if I have a 
        test environment, etc.)
  4. Code Organization:
-   - Implemented interfaces to improve code structure and maintainability.
-   - Ensured the code is clean and well-organized for easier debugging and future modifications.
+    - Implemented interfaces to improve code structure and maintainability.
+    - Ensured the code is clean and well-organized for easier debugging and future modifications.
     
 These improvements will help in quickly identifying and resolving issues in a production environment, make the code more robust, and facilitate easier maintenance and updates in the future.
 
